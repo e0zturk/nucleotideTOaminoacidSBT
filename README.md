@@ -24,7 +24,7 @@ Have you got an own nucleotide sequence? don't worry! By means of this repositor
 
    _for example:_
 
-   python example.txt txt
+   >python example.txt txt
 
    __B.__
    
@@ -32,7 +32,7 @@ Have you got an own nucleotide sequence? don't worry! By means of this repositor
 
    _for example:_
 
-   python ATGCGTAGCCGATACGGATCA
+   >python ATGCGTAGCCGATACGGATCA
 
    _output_
    MRSRYGS
@@ -43,7 +43,7 @@ Have you got an own nucleotide sequence? don't worry! By means of this repositor
 
    _for example:_
 
-   python ATGCGTAGCCGATACGGATCA fasta
+   >python ATGCGTAGCCGATACGGATCA fasta
 
 
 # Possible Errors and Notes
