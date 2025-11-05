@@ -9,11 +9,14 @@ Have you got an own nucleotide sequence? don't worry! By means of this repositor
 1. Download the files to your local files.
 
 2. Note the definitions:
+   
    __input_file__ : A file in text or fasta format containing your DNA/nucleotide sequences
+   
    __manual_DNA_sequence__ : A DNA/nucleotide sequence that can be entered manually without using a file
+   
    __output_format__ : The output file formats you obtain after translation. Two formats are supported: 'fasta', 'txt'
    
-3. Navigate to the project folder in Terminal or PowerShell and run the following command: (It can be operated in more different combinations.)
+4. Navigate to the project folder in Terminal or PowerShell and run the following command: (It can be operated in more different combinations.)
 
    __A.__
      
