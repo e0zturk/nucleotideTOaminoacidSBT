@@ -9,7 +9,9 @@ Have you got an own nucleotide sequence? don't worry! By means of this repositor
 1. **Download the files to your local files.**
 
 2. **Note the definitions:** _(These definitions have been used in Section 4.)_
-   
+
+   __code.py__: the main code you run within the repository. 
+  
    __input_file__ : A file in text or fasta format containing your DNA/nucleotide sequences
    
    __manual_DNA_sequence__ : A DNA/nucleotide sequence that can be entered manually without using a file
@@ -21,30 +23,30 @@ Have you got an own nucleotide sequence? don't worry! By means of this repositor
 
    __A.__
      
-   >python input_file output_format
+   >python code.py input_file output_format
 
    _for example:_
 
-   >python example.txt txt
+   >python substitutor.py example.txt txt
 
    __B.__
    
-   >python manuel_DNA_sequance
+   >python code.py manuel_DNA_sequance
 
    _for example:_
 
-   >python ATGCGTAGCCGATACGGATCA
+   >python substitutor.py ATGCGTAGCCGATACGGATCA
 
    _output_
    MRSRYGS
 
    __C.__
    
-   >python manuel_DNA_sequence output_format
+   >python code.py manuel_DNA_sequence output_format
 
    _for example:_
 
-   >python ATGCGTAGCCGATACGGATCA fasta
+   >python substitutor.py ATGCGTAGCCGATACGGATCA fasta
 
 
 # Possible Errors and Notes
